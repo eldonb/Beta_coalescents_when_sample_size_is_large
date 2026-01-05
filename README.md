@@ -1,6 +1,6 @@
 Beta-coalescents when sample size is large
 
-code accompanying the manuscript - 
+CWEB (C/C++)  code accompanying the manuscript - 
 the manuscript is available here : 
 
 
